@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Linux, AWS, Terraform**
 
-- 📫 How to reach me **mail2manu04@gmail.com**
+- 📫 Reach me at **mail2manu04@gmail.com**
 
 - ⚡ Fun fact **I'm not funny**
 
